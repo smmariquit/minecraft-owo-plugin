@@ -1,0 +1,6 @@
+name: OwoPlugin
+main: com.example.owoplugin.OwoPlugin
+version: 1.0
+api-version: 1.20
+commands: {}
+description: A simple Minecraft Spigot plugin.
